@@ -1,0 +1,3 @@
+include ':MasterLib'
+include ':app'
+rootProject.name = "MasterLib"
